@@ -1,0 +1,2 @@
+# Azure
+Azure RM Templates
